@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Smallmackerel
+- I'm learning cybersecurity I like doing ctf challenges and coding useless things.
